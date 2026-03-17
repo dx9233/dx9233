@@ -1,14 +1,25 @@
 ## About Me
 
-Software Developer. Against Putin and War!
+Software Developer. Against Putin and War! I do not work with government, military, or religious organizations!
 
 ## Skills
 
 ### Language
 
-- Russian (**Native**)
-- English (**B2**)
-- Spanish (**A1**)
+<p align="left">
+<img
+  alt="russian"
+  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/RU.svg" width="40" height="40"/>
+
+<img
+  alt="United States"
+  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/US.svg" width="40" height="40"/>
+
+<img
+  alt="spanish"
+  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg" width="40" height="40"/>
+
+</p>
 
 ### Tech Stack
 
