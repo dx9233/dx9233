@@ -9,9 +9,7 @@ Software Developer
 <p align="left" display="flex" flex-derection="row">
 <img
   alt="United States"
-  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/US.svg" width="40" height="40"/>
-
-<img
+  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/US.svg" width="40" height="40"/> <img
   alt="Spanish"
   src="https://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg" width="40" height="40"/>
 
