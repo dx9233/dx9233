@@ -11,8 +11,9 @@ Software Developer
   alt="United States"
   src="https://purecatamphetamine.github.io/country-flag-icons/3x2/US.svg" width="40" height="40"/> <img
   alt="Spanish"
-  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg" width="40" height="40"/>
-
+  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/ES.svg" width="40" height="40"/> <img
+  alt="Russia"
+  src="https://purecatamphetamine.github.io/country-flag-icons/3x2/RU.svg" width="40" height="40"/>
 </p>
 
 ### Tech Stack
@@ -42,6 +43,7 @@ Software Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="Adobe Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="40" height="40" alt="Adobe Illustrator" />
